@@ -12,7 +12,7 @@ main.line(6)
 main.line(7)
 main.cline("H")
 
-c = main.ask("don pollo", [["a", "dom pollo"],["b", "dim pollo"],["c", "dox pollo"]])
+c = main.ask("test 1", [["a", "test 2"],["b", "test 3"],["c", "test 4"]])
 print(c)
 
 if main.askyn("henrold"):
